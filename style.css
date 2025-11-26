@@ -134,7 +134,7 @@ h3 {
     color:darkgoldenrod;
 }
 
-.schedule p a {
+.schedule .past p a {
     text-decoration: underline;
     color: rgb(182, 171, 144);
     font-family: monospace;
